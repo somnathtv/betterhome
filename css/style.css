@@ -255,6 +255,7 @@ border-radius: 24px;
 .banner{
   background-image: url(https://4nations.com.au/wp-content/uploads/2018/08/slider3.jpg);
     height: 530px;
+  width: 100%;
 }
 .content-area{
   text-align: center;
