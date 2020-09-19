@@ -1,0 +1,272 @@
+/*! @@@@@@@@@@@@@@@@@@@@@@
+Template Name: Better Home
+Template URI:
+Author: 
+Author URI: 
+Description: Description
+Version: 1.0.0
+Text Domain: goster-dokan
+Tags: 
+
+
+
+
+>>> TABLE OF CONTENTS END:
+@@@@@@@@@@@@@@@@@@@@@@ */
+
+/*presets*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  box-shadow: none; }
+
+body {
+  background: #fff;
+  color: #716c80;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #181818;
+  font-weight: 700; }
+
+  ul, li, ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: inherit;
+  text-decoration: none !important;
+  -webkit-transition: 0.4s all;
+  -moz-transition: 0.4s all;
+  -ms-transition: 0.4s all;
+  -o-transition: 0.4s all;
+  transition: 0.4s all;
+}
+p {
+  color: inherit;
+}
+
+/*a > h1, a > h2, a > h3, a > h4, a > h5, a > h6 {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+*/
+
+/*Login Page*/
+.full-width{
+ 
+}
+.back-color{
+  background-color: #37a048;
+  height: 667px;
+  margin-left: -114px;
+   padding-left: 90px;
+}
+.login-logo img{
+  margin-top: 30px;
+  width: 160px;
+  
+  margin-bottom: 48px
+}
+.login-content h2{
+  color: #fff;
+}
+.login-content p{
+  color: #fff;
+
+}
+.login-content {
+  
+}
+.buttom-txt {
+  
+  padding-top: 370px;
+}
+.buttom-txt p{
+ color: #fff;
+}
+.form-login .log-into-acc{
+  padding-top: 34px;
+}
+.login-into{
+  float: right;
+}
+.log-into-acc{
+  padding-left: 90px;
+  padding-right: 0;
+}
+.login-into span{
+  color: #37a048;
+  margin-left: 10px;
+  margin-right: 40px;
+}
+.social-login{
+  margin-top: 104px;
+ 
+}
+.social-login button{
+  border-radius: 24px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 6px 46px;
+  margin-right: 18px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.social-login i{
+  margin-right: 10px;
+}
+.social-login button:hover{
+  background-color: #37a048;
+  color: #fff;
+}
+.log-input{
+  padding: 0;
+  margin: 0;
+}
+.log-input p{
+  padding: 0;
+  margin: 0;
+}
+.log-input-s p{
+  padding: 0;
+  margin: 0;
+}
+.login-email{
+  
+}
+.log-text {
+  padding: 0px;
+}
+.log-text p{
+  padding-bottom: 2px;
+}
+.login-email input{
+  border-radius: 24px;
+    border: none;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 6px 20px;
+    background-color: #efefef;
+}
+.log-into-acc hr{
+  border-top: 1px solid #37a048;
+  width: 22px;
+  
+  margin-bottom: 14px;
+}
+.keep-me{
+  margin-top: 92px;
+  margin-bottom: 0px;
+}
+.keep-me label{
+  font-weight: 400;
+}
+.keep-me span{
+  color: #37a048;
+}
+.social-login span{
+  color: #37a048;
+}
+.top-header{
+  color: #000;
+}
+.same-lign{
+  margin-top: 10px;
+}
+.log-sign button{
+border-radius: 24px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 6px 46px;
+    margin-right: 18px;
+    float: right;
+    
+    }
+
+    .log-sign button:hover{
+  background-color: #37a048;
+  color: #fff;
+}
+.top-banner a img{
+  display: block;
+    max-width: 100%;
+    height: 50px;
+}
+.top-banner ul{
+  float: right;
+}
+.top-banner ul li{
+  float: left;
+}
+.top-banner li{
+  padding: 0 10px;
+}
+
+.top-header{
+    padding: 20px 0;
+    background-color: rgba(255, 255, 255, 0.5);
+    position: relative;
+}
+.nav-btn-box {
+  display: none;
+}
+.top-menu{
+  background-color: #dddddd;
+}
+
+.main-menu ul li{
+  float: left;
+}
+.main-menu nav > ul > li {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  color: #fff;
+  margin-left: 30px;
+}
+.main-menu nav > ul > li >a {
+  display: block;
+    padding: 0;
+    letter-spacing: 1px;
+    font-size: 12px;
+    line-height: 40px;
+    /* text-transform: uppercase; */
+    font-weight: 600;
+    color: #151414;
+}
+.container{
+  width: 1280px;
+}
+.banner{
+  background-image: url(https://4nations.com.au/wp-content/uploads/2018/08/slider3.jpg);
+    height: 530px;
+}
+.content-area{
+  text-align: center;
+    padding-top: 14%;
+}
+.content-area h2{
+  color: #fff;
+    font-size: 46px;
+    font-weight: 700;
+}
+.content-area h1 span{
+    color: #37a048;
+    font-size: 86px;
+    font-weight: 700;
+}
